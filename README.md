@@ -1,1 +1,4 @@
-# D3 Graph Comparing Median Household Income Per State vs Physical Activity Level
+#Median Household Income Per State vs Physical Activity Level
+
+Tools used:
+HTML, JS, D3
