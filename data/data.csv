@@ -1,0 +1,52 @@
+id,state,abbr,med_inc,phys_act
+1,Alabama,AL,42830,72.4
+2,Alaska,AK,71583,80.8
+3,Arizona,AZ,50068,78.8
+4,Arkansas,AR,41262,69.4
+5,California,CA,61933,78.3
+6,Colorado,CO,61303,83.6
+7,Connecticut,CT,70048,79.4
+8,Delaware,DE,59716,75.1
+9,District of Columbia,DC,71648,79.2
+10,Florida,FL,47463,76.3
+11,Georgia,GA,49321,76.4
+12,Hawaii,HI,69592,80.4
+13,Idaho,ID,47861,81.3
+14,Illinois,IL,57444,76.1
+15,Indiana,IN,49446,73.9
+16,Iowa,IA,53712,77.4
+17,Kansas,KS,52504,76.2
+18,Kentucky,KY,42958,71.8
+19,Louisiana,LA,44555,70.5
+20,Maine,ME,49462,80.3
+21,Maryland,MD,73971,78.6
+22,Massachusetts,MA,69160,79.9
+23,Michigan,MI,49847,74.5
+24,Minnesota,MN,61481,79.8
+25,Mississippi,MS,39680,68.4
+26,Missouri,MO,48363,75
+27,Montana,MT,46328,80.4
+28,Nebraska,NE,52686,78.7
+29,Nevada,NV,51450,77.5
+30,New Hampshire,NH,66532,80.7
+31,New Jersey,NJ,71919,76.7
+32,New Mexico,NM,44803,76.7
+33,New York,NY,58878,74.1
+34,North Carolina,NC,46556,76.8
+35,North Dakota,ND,59029,78.7
+36,Ohio,OH,49308,75.1
+37,Oklahoma,OK,47529,71.7
+38,Oregon,OR,51075,83.5
+39,Pennsylvania,PA,53234,76.7
+40,Rhode Island,RI,54891,77.5
+41,South Carolina,SC,45238,74.7
+42,South Dakota,SD,50979,78.8
+43,Tennessee,TN,44361,73.2
+44,Texas,TX,53035,72.4
+45,Utah,UT,60922,83.2
+46,Vermont,VT,54166,81
+47,Virginia,VA,64902,76.5
+48,Washington,WA,61366,81.9
+49,West Virginia,WV,41059,71.3
+50,Wisconsin,WI,52622,78.8
+51,Wyoming,WY,57055,77.9
